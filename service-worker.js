@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5ee711dfb1f2a1498fd05bbed8e1989f.js"
+  "/precache-manifest.d7d6c78482410ac2a499161a913338c5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vispot"});
